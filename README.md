@@ -1,2 +1,4 @@
-# 60diasdepython
-60 dias de programação em python.
+# 60 de programação em pyhton
+
+- [ ] Dia 1 - 
+- [ ] Dia 2 - 
