@@ -5,4 +5,5 @@
 - [x] Dia 3 - Condicional que verifica se um numero e impar ou par;
 - [x] Dia 4 - Adicionando laco de repeticao com for & while;
 - [x] Dia 5 - Funcao que imprime o quadrado de um numero;
-- [ ] Dia 6 - 
+- [x] Dia 6 - Adicionando Listas em python;
+- [ ] Dia 7 -
