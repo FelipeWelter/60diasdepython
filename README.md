@@ -2,4 +2,5 @@
 
 - [x] Dia 1 - Aprendendo subir arquivo python para o repositório e criação do primeiro arquivo python.
 - [x] Dia 2 - Soma de Dois Numeros, de duas formas diferentes.
-- [ ] Dia 3 -
+- [x] Dia 3 - Condicional que verifica se um numero e impar ou par
+- [ ] Dia 4 -
