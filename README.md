@@ -6,5 +6,5 @@
 - [x] Dia 4 - Adicionando laco de repeticao com for & while;
 - [x] Dia 5 - Funcao que imprime o quadrado de um numero;
 - [x] Dia 6 - Adicionando Listas em python;
-- [x] Dia 7 - Dicionario de aluno dinamico e estatico
+- [x] Dia 7 - Dicionario de aluno dinamico e estático.
 - [ ] Dia 8 - 
