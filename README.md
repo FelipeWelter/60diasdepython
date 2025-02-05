@@ -7,4 +7,5 @@
 - [x] Dia 5 - Funcao que imprime o quadrado de um numero;
 - [x] Dia 6 - Adicionando Listas em python;
 - [x] Dia 7 - Dicionario de aluno dinamico e estático.
-- [ ] Dia 8 - 
+- [x] Dia 8 - Funcao que verifica se um numero e maior ou menor;
+- [ ] Dia 9 - 
