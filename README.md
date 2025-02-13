@@ -8,4 +8,5 @@
 - [x] Dia 6 - Adicionando Listas em python;
 - [x] Dia 7 - Dicionario de aluno dinamico e estático.
 - [x] Dia 8 - Funcao que verifica se um numero e maior ou menor;
-- [ ] Dia 9 - 
+- [x] Dia 9 - Contador personalizado;
+- [ ] Dia 10 -
