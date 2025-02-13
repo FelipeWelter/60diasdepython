@@ -10,4 +10,5 @@
 - [x] Dia 8 - Funcao que verifica se um numero e maior ou menor;
 - [x] Dia 9 - Contador personalizado;
 - [x] Dia 10 - Gerador de senhas pessoal.
-- [ ] Dia 11 -
+- [x] Dia 11 - Funcao SORTED - para ordenar lista numerica;
+- [x] Dia 12 - 
