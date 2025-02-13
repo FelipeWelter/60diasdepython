@@ -9,4 +9,5 @@
 - [x] Dia 7 - Dicionario de aluno dinamico e estático.
 - [x] Dia 8 - Funcao que verifica se um numero e maior ou menor;
 - [x] Dia 9 - Contador personalizado;
-- [ ] Dia 10 -
+- [x] Dia 10 - Gerador de senhas pessoal.
+- [ ] Dia 11 -
