@@ -12,4 +12,12 @@
 - [x] Dia 10 - Gerador de senhas pessoal.
 - [x] Dia 11 - Funcao SORTED - para ordenar lista numerica;
 - [x] Dia 12 - Busca Linear utilizando lista
-- [ ] Dia 13 - 
+- [x] Dia 13 - Funcao fatorial
+- [ ] Dia 14 - 
+- [ ] Dia 15 - 
+- [ ] Dia 16 - 
+- [ ] Dia 17 -
+- [ ] Dia 18 -
+- [ ] Dia 19 -
+- [ ] Dia 20 - 
+- [ ] Dia 21 -
