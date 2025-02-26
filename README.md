@@ -18,6 +18,6 @@
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Manipulação de strings
 - [x] Dia 18 - Contador de palavras
-- [x] Dia 19 -
-- [x] Dia 20 - 
+- [x] Dia 19 - Calcular média de notas
+- [x] Dia 20 - matriz transposta
 - [ ] Dia 21 -
