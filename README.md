@@ -13,7 +13,7 @@
 - [x] Dia 11 - Funcao SORTED - para ordenar lista numerica;
 - [x] Dia 12 - Busca Linear utilizando lista
 - [x] Dia 13 - Funcao fatorial
-- [ ] Dia 14 - 
+- [x] Dia 14 - Funcao que verifica se um numero é primo
 - [ ] Dia 15 - 
 - [ ] Dia 16 - 
 - [ ] Dia 17 -
