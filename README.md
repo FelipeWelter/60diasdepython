@@ -17,7 +17,7 @@
 - [x] Dia 15 - lista de fibonacci
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Manipulação de strings
-- [x] Dia 18 -
+- [x] Dia 18 - Contador de palavras
 - [x] Dia 19 -
 - [x] Dia 20 - 
 - [ ] Dia 21 -
