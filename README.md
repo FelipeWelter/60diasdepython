@@ -14,7 +14,7 @@
 - [x] Dia 12 - Busca Linear utilizando lista
 - [x] Dia 13 - Funcao fatorial
 - [x] Dia 14 - Funcao que verifica se um numero é primo
-- [ ] Dia 15 - 
+- [x] Dia 15 - fibonacci
 - [ ] Dia 16 - 
 - [ ] Dia 17 -
 - [ ] Dia 18 -
