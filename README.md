@@ -16,8 +16,8 @@
 - [x] Dia 14 - Funcao que verifica se um numero é primo
 - [x] Dia 15 - lista de fibonacci
 - [x] Dia 16 - Anagramas
-- [ ] Dia 17 -
-- [ ] Dia 18 -
-- [ ] Dia 19 -
-- [ ] Dia 20 - 
+- [x] Dia 17 - Manipulação de strings
+- [x] Dia 18 -
+- [x] Dia 19 -
+- [x] Dia 20 - 
 - [ ] Dia 21 -
