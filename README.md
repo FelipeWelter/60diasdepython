@@ -21,4 +21,6 @@
 - [x] Dia 19 - Calcular média de notas
 - [x] Dia 20 - matriz transposta
 - [x] Dia 21 - conversao dolar para real
-- [ ] Dia 22 - 
+- [x] Dia 22 - Calculadora IMC
+- [x] Dia 23 - Jogo adivinhação
+- [ ] Dia 24 -  
