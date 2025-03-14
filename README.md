@@ -20,4 +20,5 @@
 - [x] Dia 18 - Contador de palavras
 - [x] Dia 19 - Calcular média de notas
 - [x] Dia 20 - matriz transposta
-- [ ] Dia 21 -
+- [x] Dia 21 - conversao dolar para real
+- [ ] Dia 22 - 
