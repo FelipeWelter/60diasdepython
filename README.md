@@ -23,4 +23,5 @@
 - [x] Dia 21 - conversao dolar para real
 - [x] Dia 22 - Calculadora IMC
 - [x] Dia 23 - Jogo adivinhação
-- [ ] Dia 24 -  
+- [x] Dia 24 -  
+- [ ] Dia 25 - 
