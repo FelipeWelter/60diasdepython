@@ -26,4 +26,4 @@
 - [x] Dia 24 - Tabuada
 - [x] Dia 25 - Gerador de numeros aleatorios
 - [x] Dia 26 - Criador de arquivo txt
-- [ ] dia 27 - 
+- [ ] Dia 27 - 
