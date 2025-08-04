@@ -26,4 +26,5 @@
 - [x] Dia 24 - Tabuada
 - [x] Dia 25 - Gerador de numeros aleatorios
 - [x] Dia 26 - Criador de arquivo txt
-- [ ] Dia 27 - 
+- [x] Dia 27 - Conversor de temperatura
+- [ ] Dia 28 - 
