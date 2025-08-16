@@ -27,4 +27,12 @@
 - [x] Dia 25 - Gerador de numeros aleatorios
 - [x] Dia 26 - Criador de arquivo txt
 - [x] Dia 27 - Conversor de temperatura
-- [ ] Dia 28 - 
+- [x] Dia 28 - Cronometro
+- [x] Dia 29 - Gerador de data atual
+- [x] Dia 30 - cronometro de 10 a zero
+- [x] Dia 31 - raiz quadrada funcao
+- [x] Dia 32 - lancar dado nr aleatorio 
+- [x] Dia 33 - contar ocorrencias funcao
+- [x] Dia 34 - operando JSON
+- [x] Dia 35 - request HTTP com python
+- [ ] Dia 36 - 
