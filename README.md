@@ -44,10 +44,10 @@
 - [x] Dia 42 - Buscar arquivos dentro de pastas
 - [x] Dia 43 - Tratamento de Erros
 - [x] Dia 44 -
-- [x] Dia 45 -
-- [x] Dia 46 -
-- [x] Dia 47 -
-- [x] Dia 48 -
-- [x] Dia 49 -
-- [x] Dia 50 -
+- [ ] Dia 45 -
+- [ ] Dia 46 -
+- [ ] Dia 47 -
+- [ ] Dia 48 -
+- [ ] Dia 49 -
+- [ ] Dia 50 -
 - [ ] Dia 51 -
