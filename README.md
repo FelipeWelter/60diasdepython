@@ -35,4 +35,19 @@
 - [x] Dia 33 - contar ocorrencias funcao
 - [x] Dia 34 - operando JSON
 - [x] Dia 35 - request HTTP com python
-- [ ] Dia 36 - 
+- [x] Dia 36 - pesquisa paragrafo site Crawler
+- [x] Dia 37 - Ler CVS com Python
+- [x] Dia 38 - Operando chat gpt com python
+- [x] Dia 39 -
+- [x] Dia 40 -
+- [x] Dia 41 -
+- [x] Dia 42 -
+- [x] Dia 43 -
+- [x] Dia 44 -
+- [x] Dia 45 -
+- [x] Dia 46 -
+- [x] Dia 47 -
+- [x] Dia 48 -
+- [x] Dia 49 -
+- [x] Dia 50 -
+- [ ] Dia 51 -
