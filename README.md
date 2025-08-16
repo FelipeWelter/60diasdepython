@@ -38,8 +38,8 @@
 - [x] Dia 36 - pesquisa paragrafo site Crawler
 - [x] Dia 37 - Ler CVS com Python
 - [x] Dia 38 - Operando chat gpt com python
-- [x] Dia 39 -
-- [x] Dia 40 -
+- [x] Dia 39 - Gerador de graficos 
+- [x] Dia 40 - Programação orientada as objetos
 - [x] Dia 41 -
 - [x] Dia 42 -
 - [x] Dia 43 -
