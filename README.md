@@ -40,8 +40,8 @@
 - [x] Dia 38 - Operando chat gpt com python
 - [x] Dia 39 - Gerador de graficos 
 - [x] Dia 40 - Programação orientada as objetos
-- [x] Dia 41 -
-- [x] Dia 42 -
+- [x] Dia 41 - heranca de classes
+- [x] Dia 42 - Buscar arquivos dentro de pastas
 - [x] Dia 43 -
 - [x] Dia 44 -
 - [x] Dia 45 -
