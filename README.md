@@ -43,7 +43,7 @@
 - [x] Dia 41 - heranca de classes
 - [x] Dia 42 - Buscar arquivos dentro de pastas
 - [x] Dia 43 - Tratamento de Erros
-- [x] Dia 44 -
+- [x] Dia 44 - Validar email
 - [ ] Dia 45 -
 - [ ] Dia 46 -
 - [ ] Dia 47 -
