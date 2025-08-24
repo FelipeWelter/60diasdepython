@@ -44,7 +44,7 @@
 - [x] Dia 42 - Buscar arquivos dentro de pastas
 - [x] Dia 43 - Tratamento de Erros
 - [x] Dia 44 - Validar email
-- [ ] Dia 45 -
+- [x] Dia 45 - Trabalhar com varias tarefas ( Threading)
 - [ ] Dia 46 -
 - [ ] Dia 47 -
 - [ ] Dia 48 -
