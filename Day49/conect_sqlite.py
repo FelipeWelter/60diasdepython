@@ -22,7 +22,7 @@ print("conectado ao banco de dados")
 ### INSERIR DADOS NA TABELA ###
 cursor.execute("""
                INSERT INTO personagens (nome, poder, universo)
-               VALUES ("NARUTO", 9000, "NARUTO")
+               VALUES ("HINATA", 4000, "NARUTO")
                """)
 conexao.commit()
 print("Dados inseridos com sucesso.")

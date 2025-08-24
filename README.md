@@ -48,6 +48,15 @@
 - [x] Dia 46 - Conexão Cliente - Servidor Python
 - [x] Dia 47 - Decorator - Contador de tempo de execucao.
 - [x] Dia 48 - gerador infinito sem armazenar
-- [ ] Dia 49 -
-- [ ] Dia 50 -
-- [ ] Dia 51 -
+- [x] Dia 49 - Gerenciamento de banco de dados
+- [x] Dia 50 - Automatizar mouse com python BOT
+- [x] Dia 51 - Buscar conteudo em paginas WEB
+- [ ] Dia 52 -
+- [ ] Dia 53 -
+- [ ] Dia 54 -
+- [ ] Dia 55 -
+- [ ] Dia 56 -
+- [ ] Dia 57 -
+- [ ] Dia 58 -
+- [ ] Dia 59 -
+- [ ] Dia 60 -
