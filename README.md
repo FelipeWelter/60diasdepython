@@ -53,7 +53,7 @@
 - [x] Dia 51 - Buscar conteudo em paginas WEB
 - [x] Dia 52 - Criação de grafico, utilizando google colab.
 - [x] Dia 53 - Reconhecimento de imagem com o openCV
-- [x] Dia 54 -
+- [x] Dia 54 - Análise de dados com Pandas
 - [ ] Dia 55 -
 - [ ] Dia 56 -
 - [ ] Dia 57 -
