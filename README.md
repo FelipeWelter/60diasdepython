@@ -45,9 +45,9 @@
 - [x] Dia 43 - Tratamento de Erros
 - [x] Dia 44 - Validar email
 - [x] Dia 45 - Trabalhar com varias tarefas ( Threading)
-- [ ] Dia 46 -
-- [ ] Dia 47 -
-- [ ] Dia 48 -
+- [x] Dia 46 - Conexão Cliente - Servidor Python
+- [x] Dia 47 - Decorator - Contador de tempo de execucao.
+- [x] Dia 48 - gerador infinito sem armazenar
 - [ ] Dia 49 -
 - [ ] Dia 50 -
 - [ ] Dia 51 -
