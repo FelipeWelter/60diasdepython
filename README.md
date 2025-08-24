@@ -51,9 +51,9 @@
 - [x] Dia 49 - Gerenciamento de banco de dados
 - [x] Dia 50 - Automatizar mouse com python BOT
 - [x] Dia 51 - Buscar conteudo em paginas WEB
-- [ ] Dia 52 -
-- [ ] Dia 53 -
-- [ ] Dia 54 -
+- [x] Dia 52 - Criação de grafico, utilizando google colab.
+- [x] Dia 53 - Reconhecimento de imagem com o openCV
+- [x] Dia 54 -
 - [ ] Dia 55 -
 - [ ] Dia 56 -
 - [ ] Dia 57 -
